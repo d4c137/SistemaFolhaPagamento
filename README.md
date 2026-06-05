@@ -7,9 +7,8 @@ Aqui está um modelo simples:
 # SISTEMA DE FOLHA DE PAGAMENTO
 
 ## Integrantes
-- Integrante 1: GUILHERME
-- Integrante 2: NICAEL
-- Integrante 3: PEDRO
+- Integrante 1: GUILHERME FERNANDES CAMARA DOS SANTOS
+- Integrante 2: PEDRO HENRIQUE MARTINS
 
 ## Como executar
 
